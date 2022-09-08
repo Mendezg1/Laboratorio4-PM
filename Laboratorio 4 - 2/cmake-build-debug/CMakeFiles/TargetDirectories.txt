@@ -1,0 +1,3 @@
+C:/Users/euroc/Documents/GitHub/Laboratorio-4-PM/Laboratorio 4 - 2/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/Users/euroc/Documents/GitHub/Laboratorio-4-PM/Laboratorio 4 - 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/euroc/Documents/GitHub/Laboratorio-4-PM/Laboratorio 4 - 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
