@@ -38,7 +38,7 @@ void *procesoTostadora2(void *index){
 void *procesoEmpacadora(void *index){
 
     while(bodega != 400){
-        if(silo <= 5){
+        if(silo <= 5 || bodega >= 394{
             pthread_mutex_lock(&mutexFabrica);
             silo--;
             bodega++;
