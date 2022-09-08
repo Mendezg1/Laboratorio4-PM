@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/euroc/CLionProjects/untitled/cmake-build-debug"
+			"value" : "c:/Users/euroc/Documents/GitHub/Laboratorio-4-PM/Laboratorio 4 - 1/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/euroc/CLionProjects/untitled"
+			"value" : "C:/Users/euroc/Documents/GitHub/Laboratorio-4-PM/Laboratorio 4 - 1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/euroc/CLionProjects/untitled/cmake-build-debug"
+			"value" : "C:/Users/euroc/Documents/GitHub/Laboratorio-4-PM/Laboratorio 4 - 1/cmake-build-debug"
 		},
 		{
 			"name" : "untitled_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/euroc/CLionProjects/untitled"
+			"value" : "C:/Users/euroc/Documents/GitHub/Laboratorio-4-PM/Laboratorio 4 - 1"
 		}
 	],
 	"kind" : "cache",

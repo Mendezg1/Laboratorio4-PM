@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/euroc/CLionProjects/untitled
+# Install script for directory: C:/Users/euroc/Documents/GitHub/Laboratorio-4-PM/Laboratorio 4 - 1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/euroc/CLionProjects/untitled/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/euroc/Documents/GitHub/Laboratorio-4-PM/Laboratorio 4 - 1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
